@@ -51,7 +51,8 @@ MATLAB&reg;, Symbolic Math Toolbox&trade;, Simulink
 
 ## サポート ##
 日本語でのお問い合わせは[マスワークスジャパン教育関係部門](mailto:cse-jp@groups.mathworks.com)までお願いします。
-Have any questions or feedback? Contact the <a href="mailto:onlineteaching@mathworks.com">MathWorks online teaching team.</a>.
+<br>
+Have any questions or feedback? Contact the <a href="mailto:onlineteaching@mathworks.com">MathWorks online teaching team</a>.
 
 # #
 _Copyright 2021 The MathWorks, Inc._
