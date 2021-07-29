@@ -50,7 +50,7 @@ MATLAB&reg;, Symbolic Math Toolbox&trade;, Simulink
 このモジュールのライセンスは、GitHubのレポジトリ内の[LICENSE.TXT](license.txt) ファイルにおいて利用可能です。
 
 ## サポート ##
-日本語でのお問い合わせは[マスワークスジャパン教育関係部門](mailto:cse-jp@groups.mathworks.com)までお願いします。
+日本語版のお問い合わせは[MathWorks Japan カスタマーサクセス部](mailto:cse-jp@groups.mathworks.com)までお願いいたします。
 <br>
 Have any questions or feedback? Contact the <a href="mailto:onlineteaching@mathworks.com">MathWorks online teaching team</a>.
 
