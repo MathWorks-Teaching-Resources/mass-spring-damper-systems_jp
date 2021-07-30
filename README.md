@@ -1,11 +1,11 @@
-# バネマスダンパーシステム [![View Mass-Spring-Damper Systems on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/96822-mass-spring-dumper-systems)
+# バネマスダンパーシステム [![View Mass-Spring-Damper Systems on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/96822-mass-spring-damper-systems)
 **Curriculum Module**  
 _R2020bで作成。R2020b以降のバージョンでも使用可能_
 
 <img src="https://user-images.githubusercontent.com/81383420/122805177-c65f6500-d296-11eb-9684-5f1f70b4ea03.gif" width="350">
 
 ## 説明 ##
-This repository contains a Japanese version of a published repository "Mass-Spring-Dumper-Systems" (https://github.com/MathWorks-Teaching-Resources/Mass-Spring-Damper-Systems)
+This repository contains a Japanese version of a published repository "Mass-Spring-Damper-Systems" (https://github.com/MathWorks-Teaching-Resources/Mass-Spring-Damper-Systems)
 
 このカリキュラムではバネマスダンパーシステムを探求するためのインタラクティブな[ライブスクリプト](https://www.mathworks.com/products/matlab/live-editor.html)と[Simulink&reg; モデル](https://www.mathworks.com/products/simulink.html) が含まれています。学生はガイド付きの演習を行いながら、バネマスダンパーモデルの作成し動かします。自動車のサスペンションによる振動減衰、地震に対する建物の応答といった二つの応用例を用いることで、モデルの作成・操作することに興味を持ってもらいます。
 課題全体を通して、学生はSimulinkモデルを使用しながら、物理システムの動力学を学ぶことができます。最後の課題では、変位信号のパワースペクトルを計算することで、バネマスダンパーの建物モデルの共振周波数を同定します。これらの課題は、講義の一部、教育現場での活動として、また授業外のインタラクティブな課題としても活用することができます。
