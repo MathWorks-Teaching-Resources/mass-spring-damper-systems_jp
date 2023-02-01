@@ -24,9 +24,9 @@ This repository contains a Japanese version of a published repository "Mass-Spri
 各ライブスクリプトは、セクションごとに実行することができます。スクリプトやセクションの実行を途中で停止するには（例えば、アニメーションの進行中に止めたいときなど）、MATLABツールストリップの"ライブエディタ"タブにある「実行」セクションの［停止］ボタンを使用します。
 
 ## 推奨入門コンテンツ ##
-[MATLAB 入門](https://www.mathworks.com/learn/tutorials/matlab-onramp.html) – MATLABの基礎を学べる2時間の無料入門チュートリアル
+[MATLAB 入門](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) – MATLABの基礎を学べる2時間の無料入門チュートリアル
 <br>
-[Simulink 入門](https://www.mathworks.com/learn/tutorials/simulink-onramp.html) –　Simulinkの基礎を学べる2時間の無料入門チュートリアル
+[Simulink 入門](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) –　Simulinkの基礎を学べる2時間の無料入門チュートリアル
 
 ## 詳細 ##
 
