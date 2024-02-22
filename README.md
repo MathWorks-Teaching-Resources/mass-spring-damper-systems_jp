@@ -1,4 +1,5 @@
 # バネマスダンパーシステム [![View Mass-Spring-Damper Systems on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/96822-mass-spring-damper-systems)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=raacampbell/shadedErrorBar) 
 **Curriculum Module**  
 _R2020bで作成。R2020b以降のバージョンでも使用可能_
 
